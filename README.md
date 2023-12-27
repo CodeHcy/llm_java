@@ -1,0 +1,2 @@
+# llm_java
+基于langchain4j使用springboot进行大语言模型的探索
